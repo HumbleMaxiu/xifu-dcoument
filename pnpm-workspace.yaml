@@ -2,6 +2,3 @@ packages:
   # 前后台应用
   - 'frontend'
   - 'server'
-catalog:
-  # 通用包版本
-  typescript: ^5.7.2
