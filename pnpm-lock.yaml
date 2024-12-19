@@ -42,7 +42,7 @@ importers:
         specifier: ^2.1.8
         version: 2.1.8
 
-  frontend:
+  packages/frontend:
     dependencies:
       react:
         specifier: ^18.3.1
@@ -64,7 +64,7 @@ importers:
         specifier: ^15.12.0
         version: 15.13.0
 
-  server: {}
+  packages/server: {}
 
 packages:
 

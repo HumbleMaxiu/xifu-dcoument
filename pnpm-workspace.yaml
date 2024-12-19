@@ -1,4 +1,4 @@
 packages:
   # 前后台应用
-  - 'frontend'
-  - 'server'
+  - 'packages/frontend'
+  - 'packages/server'
